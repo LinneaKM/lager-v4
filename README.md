@@ -1,1 +1,1 @@
-Student projecet in Web applications for mobile devices at Blekinge Institute of Technology
+Student project in Web applications for mobile devices at Blekinge Institute of Technology
